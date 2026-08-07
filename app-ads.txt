@@ -2,6 +2,7 @@ google.com, pub-3896866553687183, DIRECT, f08c47fec0942fa0
 google.com, pub-9943159572865040, DIRECT, f08c47fec0942fa0
 datawrkz.com, mwpmcm55, DIRECT
 google.com, pub-1700439570395663, DIRECT, f08c47fec0942fa0
+google.com, pub-2206316747924049, DIRECT, f08c47fec0942fa0
 google.com, pub-1747927356942391, DIRECT, f08c47fec0942fa0
 google.com, pub-4822408919834476, DIRECT, f08c47fec0942fa0
 google.com, pub-5582226006165721, DIRECT, f08c47fec0942fa0
