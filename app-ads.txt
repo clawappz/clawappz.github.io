@@ -1059,6 +1059,16 @@ sharethrough.com,4383,RESELLER,d53b998a7bd4ecd2
 sharethrough.com,4811,RESELLER,d53b998a7bd4ecd2
 smartadserver.com,4811,RESELLER,060d053dcf45cbf3
 triplelift.com,14826,RESELLER,6c33edb13117fd86
+eskimi.com,2020001211,RESELLER
+kargo.com,9101,RESELLER,98ccdd9948ed08da
+lijit.com,567230,RESELLER,fafdf38b16bf6b2b
+pubeasy.io,110579,RESELLER
+pubmatic.com,168216,RESELLER,5d62403b186f2ace
+pubmatic.com,168244,RESELLER,5d62403b186f2ace
+sharethrough.com,4383,RESELLER,d53b998a7bd4ecd2
+sharethrough.com,4811,RESELLER,d53b998a7bd4ecd2
+smartadserver.com,4811,RESELLER,060d053dcf45cbf3
+triplelift.com,14826,RESELLER,6c33edb13117fd86
 vungle.com, 67e1933837c778001166a0c9, DIRECT, c107d686becd2d77
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
