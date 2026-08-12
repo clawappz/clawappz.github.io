@@ -1072,6 +1072,7 @@ triplelift.com,14826,RESELLER,6c33edb13117fd86
 vungle.com, 67e1933837c778001166a0c9, DIRECT, c107d686becd2d77
 vungle.com, 5730c2af2270cba25f000066, DIRECT, c107d686becd2d77
 vungle.com, 5c657afed9e6e60012bab5d9, DIRECT, c107d686becd2d77
+vungle.com, 67e1933837c778001166a0c9, DIRECT, c107d686becd2d77
 33across.com, 001Pg0000197KcKIAU, RESELLER, bbea06d9c4d2853c
 acexchange.co.kr, 1317287336, RESELLER
 adelement.com, 30208, RESELLER
