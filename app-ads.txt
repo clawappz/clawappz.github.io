@@ -30,6 +30,7 @@ google.com, pub-6381641852239131, DIRECT, f08c47fec0942fa0
 facebook.com, 1210467953459280, DIRECT, c3e20eee3f780d68
 facebook.com, 805069172997110, DIRECT, c3e20eee3f780d68
 facebook.com, 1081332032712445, DIRECT, c3e20eee3f780d68
+facebook.com, 233810142893967, DIRECT, c3e20eee3f780d68
 #=== Pangle Jan 21, 2026
 pangleglobal.com, 5015768, DIRECT
 pangleglobal.com, 86231, DIRECT
